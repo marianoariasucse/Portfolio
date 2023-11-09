@@ -8,12 +8,12 @@ export const skills = [
   {
     'name': 'Javascript',
     'description': '1 año de experiencia',
-    'icon': '/src/assets/icons/js.png'
+    'icon': '/icons/js.png'
   },
   {
     'name': 'Vue js',
     'description': '1 año de experiencia',
-    'icon': '/src/assets/icons/vue.png'
+    'icon': '/icons/vue.png'
   },
   // {
   //   'name': 'React js',
@@ -23,27 +23,27 @@ export const skills = [
   {
     'name': 'Tailwind css',
     'description': '1 año de experiencia',
-    'icon': '/src/assets/icons/tailwind.png'
+    'icon': '/icons/tailwind.png'
   },
   {
     'name': 'PHP',
     'description': '1 año de experiencia',
-    'icon': '/src/assets/icons/php.png'
+    'icon': '/icons/php.png'
   },
   {
     'name': 'Laravel',
     'description': '1 año de experiencia',
-    'icon': '/src/assets/icons/laravel.png'
+    'icon': '/icons/laravel.png'
   },
   {
     'name': 'MySQL',
     'description': '1 año de experiencia',
-    'icon': '/src/assets/icons/mysql.png'
+    'icon': '/icons/mysql.png'
   },
   {
     'name': 'Git',
     'description': '1 año de experiencia',
-    'icon': '/src/assets/icons/git.png'
+    'icon': '/icons/git.png'
   }
 ]
 
@@ -52,17 +52,17 @@ export const aboutMeParagraph = 'lorem ipsum lorem ipsum lorem ipsum lorem ipsum
 export const socialNetworks = [
   {
     'name': 'Linkedin',
-    'icon': '/src/assets/icons/linkedin.png',
+    'icon': '/icons/linkedin.png',
     'url': 'https://www.linkedin.com/in/mariano-arias-066989176/'
   },
   {
     'name': 'Github',
-    'icon': '/src/assets/icons/github.png',
+    'icon': '/icons/github.png',
     'url': 'https://github.com/marianoariasucse'
   },
   {
     'name': 'Twitter',
-    'icon': '/src/assets/icons/twitter.png',
+    'icon': '/icons/twitter.png',
     'url': 'https://twitter.com/Mariano24315267'
   }
 ]
