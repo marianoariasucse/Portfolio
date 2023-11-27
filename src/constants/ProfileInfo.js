@@ -6,6 +6,21 @@ export const profileImage = 'https://picsum.photos/200/100'
 
 export const skills = [
   {
+    'name': 'HTML',
+    'description': '1 año de experiencia',
+    'icon': '/icons/html.png'
+  },
+  {
+    'name': 'CSS',
+    'description': '1 año de experiencia',
+    'icon': '/icons/css.png'
+  },
+  {
+    'name': 'Tailwind css',
+    'description': '1 año de experiencia',
+    'icon': '/icons/tailwind.png'
+  },
+  {
     'name': 'Javascript',
     'description': '1 año de experiencia',
     'icon': '/icons/js.png'
@@ -15,15 +30,10 @@ export const skills = [
     'description': '1 año de experiencia',
     'icon': '/icons/vue.png'
   },
-  // {
-  //   'name': 'React js',
-  //   'description': '1 año de experiencia',
-  //   'icon': '/src/assets/icons/react.png'
-  // },
   {
-    'name': 'Tailwind css',
+    'name': 'React js',
     'description': '1 año de experiencia',
-    'icon': '/icons/tailwind.png'
+    'icon': 'icons/react.png'
   },
   {
     'name': 'PHP',
@@ -34,6 +44,11 @@ export const skills = [
     'name': 'Laravel',
     'description': '1 año de experiencia',
     'icon': '/icons/laravel.png'
+  },
+  {
+    'name': 'Node js',
+    'description': '1 año de experiencia',
+    'icon': '/icons/node.png'
   },
   {
     'name': 'MySQL',
